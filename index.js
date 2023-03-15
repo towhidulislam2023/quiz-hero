@@ -185,7 +185,7 @@ document.querySelector("#submit").addEventListener("click", function() {
   }, 1500);
   window.scrollTo(0, 0);
 });
-document.getElementById('blogBtn'), addEventListener("click", function () {
-  window.location.href="./blog.html"
+document.getElementById('blogBtn').addEventListener("click", function () {
+   location.href="./blog.html"
   
 })
